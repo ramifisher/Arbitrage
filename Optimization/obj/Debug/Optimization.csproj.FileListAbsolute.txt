@@ -1,0 +1,29 @@
+C:\Users\U-5058\Documents\OpenQuant 2014\Solutions\Spread MA\Optimization\bin\Debug\Optimization.exe
+C:\Users\U-5058\Documents\OpenQuant 2014\Solutions\Spread MA\Optimization\bin\Debug\Optimization.pdb
+C:\Users\U-5058\Documents\OpenQuant 2014\Solutions\Spread MA\Optimization\bin\Debug\MyStrategy.dll
+C:\Users\U-5058\Documents\OpenQuant 2014\Solutions\Spread MA\Optimization\bin\Debug\SpreadSellSide.dll
+C:\Users\U-5058\Documents\OpenQuant 2014\Solutions\Spread MA\Optimization\bin\Debug\MyStrategy.pdb
+C:\Users\U-5058\Documents\OpenQuant 2014\Solutions\Spread MA\Optimization\bin\Debug\SpreadSellSide.pdb
+C:\Users\U-5058\Documents\OpenQuant 2014\Solutions\Spread MA\Optimization\obj\Debug\Optimization.csprojResolveAssemblyReference.cache
+C:\Users\U-5058\Documents\OpenQuant 2014\Solutions\Spread MA\Optimization\obj\Debug\Optimization.exe
+C:\Users\U-5058\Documents\OpenQuant 2014\Solutions\Spread MA\Optimization\obj\Debug\Optimization.pdb
+C:\Users\Alik\Documents\OpenQuant 2014\Solutions\Spread MA\Optimization\obj\Debug\Optimization.exe
+C:\Users\Alik\Documents\OpenQuant 2014\Solutions\Spread MA\Optimization\obj\Debug\Optimization.pdb
+C:\Users\Alik\Documents\OpenQuant 2014\Solutions\Spread MA\Optimization\bin\Debug\Optimization.exe
+C:\Users\Alik\Documents\OpenQuant 2014\Solutions\Spread MA\Optimization\bin\Debug\Optimization.pdb
+C:\Users\Alik\Documents\OpenQuant 2014\Solutions\Spread MA\Optimization\bin\Debug\MyStrategy.dll
+C:\Users\Alik\Documents\OpenQuant 2014\Solutions\Spread MA\Optimization\bin\Debug\SpreadSellSide.dll
+C:\Users\Alik\Documents\OpenQuant 2014\Solutions\Spread MA\Optimization\bin\Debug\MyStrategy.pdb
+C:\Users\Alik\Documents\OpenQuant 2014\Solutions\Spread MA\Optimization\bin\Debug\SpreadSellSide.pdb
+C:\Users\Alik\Documents\OpenQuant 2014\Solutions\Spread MA\Optimization\obj\Debug\Optimization.csprojResolveAssemblyReference.cache
+\\DTRADE\Public\Arbitrage\Smart Quant\Robots\Spread MA New\Optimization\obj\Debug\Optimization.exe
+\\DTRADE\Public\Arbitrage\Smart Quant\Robots\Spread MA New\Optimization\obj\Debug\Optimization.pdb
+\\DTRADE\Public\Arbitrage\Smart Quant\Robots\Spread MA New\Optimization\bin\Debug\Optimization.exe
+\\DTRADE\Public\Arbitrage\Smart Quant\Robots\Spread MA New\Optimization\bin\Debug\Optimization.pdb
+\\DTRADE\Public\Arbitrage\Smart Quant\Robots\Spread MA New\Optimization\bin\Debug\MyStrategy.dll
+\\DTRADE\Public\Arbitrage\Smart Quant\Robots\Spread MA New\Optimization\bin\Debug\SpreadSellSide.dll
+\\DTRADE\Public\Arbitrage\Smart Quant\Robots\Spread MA New\Optimization\bin\Debug\MyStrategy.pdb
+\\DTRADE\Public\Arbitrage\Smart Quant\Robots\Spread MA New\Optimization\bin\Debug\SpreadSellSide.pdb
+\\DTRADE\Public\Arbitrage\Smart Quant\Robots\Spread MA New\Optimization\obj\Debug\Optimization.csprojResolveAssemblyReference.cache
+\\DTRADE\Public\Strategy Box\Programs\Arbitrage\Smart Quant\Robots\Spread MA New\Optimization\obj\Debug\Optimization.exe
+\\DTRADE\Public\Strategy Box\Programs\Arbitrage\Smart Quant\Robots\Spread MA New\Optimization\obj\Debug\Optimization.pdb

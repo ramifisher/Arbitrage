@@ -1,0 +1,20 @@
+C:\Users\U-5058\Documents\OpenQuant 2014\Solutions\Spread\SpreadSellSide\bin\Debug\SpreadSellSide.dll
+C:\Users\U-5058\Documents\OpenQuant 2014\Solutions\Spread\SpreadSellSide\bin\Debug\SpreadSellSide.pdb
+C:\Users\U-5058\Documents\OpenQuant 2014\Solutions\Spread\SpreadSellSide\obj\Debug\SpreadSellSide.csprojResolveAssemblyReference.cache
+C:\Users\U-5058\Documents\OpenQuant 2014\Solutions\Spread\SpreadSellSide\obj\Debug\SpreadSellSide.dll
+C:\Users\U-5058\Documents\OpenQuant 2014\Solutions\Spread\SpreadSellSide\obj\Debug\SpreadSellSide.pdb
+C:\Users\U-5058\Documents\OpenQuant 2014\Solutions\Spread MA\SpreadSellSide\bin\Debug\SpreadSellSide.dll
+C:\Users\U-5058\Documents\OpenQuant 2014\Solutions\Spread MA\SpreadSellSide\bin\Debug\SpreadSellSide.pdb
+C:\Users\U-5058\Documents\OpenQuant 2014\Solutions\Spread MA\SpreadSellSide\obj\Debug\SpreadSellSide.csprojResolveAssemblyReference.cache
+C:\Users\U-5058\Documents\OpenQuant 2014\Solutions\Spread MA\SpreadSellSide\obj\Debug\SpreadSellSide.dll
+C:\Users\U-5058\Documents\OpenQuant 2014\Solutions\Spread MA\SpreadSellSide\obj\Debug\SpreadSellSide.pdb
+C:\Users\Alik\Documents\OpenQuant 2014\Solutions\Spread MA\SpreadSellSide\bin\Debug\SpreadSellSide.dll
+C:\Users\Alik\Documents\OpenQuant 2014\Solutions\Spread MA\SpreadSellSide\bin\Debug\SpreadSellSide.pdb
+C:\Users\Alik\Documents\OpenQuant 2014\Solutions\Spread MA\SpreadSellSide\obj\Debug\SpreadSellSide.csprojResolveAssemblyReference.cache
+C:\Users\Alik\Documents\OpenQuant 2014\Solutions\Spread MA\SpreadSellSide\obj\Debug\SpreadSellSide.dll
+C:\Users\Alik\Documents\OpenQuant 2014\Solutions\Spread MA\SpreadSellSide\obj\Debug\SpreadSellSide.pdb
+\\DTRADE\Public\Arbitrage\Smart Quant\Robots\Spread MA New\SpreadSellSide\bin\Debug\SpreadSellSide.dll
+\\DTRADE\Public\Arbitrage\Smart Quant\Robots\Spread MA New\SpreadSellSide\bin\Debug\SpreadSellSide.pdb
+\\DTRADE\Public\Arbitrage\Smart Quant\Robots\Spread MA New\SpreadSellSide\obj\Debug\SpreadSellSide.csprojResolveAssemblyReference.cache
+\\DTRADE\Public\Arbitrage\Smart Quant\Robots\Spread MA New\SpreadSellSide\obj\Debug\SpreadSellSide.dll
+\\DTRADE\Public\Arbitrage\Smart Quant\Robots\Spread MA New\SpreadSellSide\obj\Debug\SpreadSellSide.pdb

@@ -1,0 +1,4 @@
+C:\Users\U-5058\Documents\OpenQuant 2014\Solutions\Spread\SpreadSellSide\bin\Release\SpreadSellSide.dll
+C:\Users\U-5058\Documents\OpenQuant 2014\Solutions\Spread\SpreadSellSide\bin\Release\SpreadSellSide.pdb
+C:\Users\U-5058\Documents\OpenQuant 2014\Solutions\Spread\SpreadSellSide\obj\Release\SpreadSellSide.dll
+C:\Users\U-5058\Documents\OpenQuant 2014\Solutions\Spread\SpreadSellSide\obj\Release\SpreadSellSide.pdb

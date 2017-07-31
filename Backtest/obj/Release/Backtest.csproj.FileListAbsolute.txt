@@ -1,0 +1,9 @@
+C:\Users\U-5058\Documents\OpenQuant 2014\Solutions\Spread\Backtest\bin\Release\Backtest.exe
+C:\Users\U-5058\Documents\OpenQuant 2014\Solutions\Spread\Backtest\bin\Release\Backtest.pdb
+C:\Users\U-5058\Documents\OpenQuant 2014\Solutions\Spread\Backtest\bin\Release\MyStrategy.dll
+C:\Users\U-5058\Documents\OpenQuant 2014\Solutions\Spread\Backtest\bin\Release\SpreadSellSide.dll
+C:\Users\U-5058\Documents\OpenQuant 2014\Solutions\Spread\Backtest\bin\Release\MyStrategy.pdb
+C:\Users\U-5058\Documents\OpenQuant 2014\Solutions\Spread\Backtest\bin\Release\SpreadSellSide.pdb
+C:\Users\U-5058\Documents\OpenQuant 2014\Solutions\Spread\Backtest\obj\Release\Backtest.csprojResolveAssemblyReference.cache
+C:\Users\U-5058\Documents\OpenQuant 2014\Solutions\Spread\Backtest\obj\Release\Backtest.exe
+C:\Users\U-5058\Documents\OpenQuant 2014\Solutions\Spread\Backtest\obj\Release\Backtest.pdb

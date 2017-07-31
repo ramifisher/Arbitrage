@@ -1,0 +1,4 @@
+C:\Users\U-5058\Documents\OpenQuant 2014\Solutions\Spread\MyStrategy\bin\Release\MyStrategy.dll
+C:\Users\U-5058\Documents\OpenQuant 2014\Solutions\Spread\MyStrategy\bin\Release\MyStrategy.pdb
+C:\Users\U-5058\Documents\OpenQuant 2014\Solutions\Spread\MyStrategy\obj\Release\MyStrategy.dll
+C:\Users\U-5058\Documents\OpenQuant 2014\Solutions\Spread\MyStrategy\obj\Release\MyStrategy.pdb

@@ -1,0 +1,20 @@
+C:\Users\U-5058\Documents\OpenQuant 2014\Solutions\Spread\MyStrategy\bin\Debug\MyStrategy.dll
+C:\Users\U-5058\Documents\OpenQuant 2014\Solutions\Spread\MyStrategy\bin\Debug\MyStrategy.pdb
+C:\Users\U-5058\Documents\OpenQuant 2014\Solutions\Spread\MyStrategy\obj\Debug\MyStrategy.csprojResolveAssemblyReference.cache
+C:\Users\U-5058\Documents\OpenQuant 2014\Solutions\Spread\MyStrategy\obj\Debug\MyStrategy.dll
+C:\Users\U-5058\Documents\OpenQuant 2014\Solutions\Spread\MyStrategy\obj\Debug\MyStrategy.pdb
+C:\Users\U-5058\Documents\OpenQuant 2014\Solutions\Spread MA\MyStrategy\bin\Debug\MyStrategy.dll
+C:\Users\U-5058\Documents\OpenQuant 2014\Solutions\Spread MA\MyStrategy\bin\Debug\MyStrategy.pdb
+C:\Users\U-5058\Documents\OpenQuant 2014\Solutions\Spread MA\MyStrategy\obj\Debug\MyStrategy.csprojResolveAssemblyReference.cache
+C:\Users\U-5058\Documents\OpenQuant 2014\Solutions\Spread MA\MyStrategy\obj\Debug\MyStrategy.dll
+C:\Users\U-5058\Documents\OpenQuant 2014\Solutions\Spread MA\MyStrategy\obj\Debug\MyStrategy.pdb
+C:\Users\Alik\Documents\OpenQuant 2014\Solutions\Spread MA\MyStrategy\bin\Debug\MyStrategy.dll
+C:\Users\Alik\Documents\OpenQuant 2014\Solutions\Spread MA\MyStrategy\bin\Debug\MyStrategy.pdb
+C:\Users\Alik\Documents\OpenQuant 2014\Solutions\Spread MA\MyStrategy\obj\Debug\MyStrategy.csprojResolveAssemblyReference.cache
+C:\Users\Alik\Documents\OpenQuant 2014\Solutions\Spread MA\MyStrategy\obj\Debug\MyStrategy.dll
+C:\Users\Alik\Documents\OpenQuant 2014\Solutions\Spread MA\MyStrategy\obj\Debug\MyStrategy.pdb
+\\DTRADE\Public\Arbitrage\Smart Quant\Robots\Spread MA New\MyStrategy\bin\Debug\MyStrategy.dll
+\\DTRADE\Public\Arbitrage\Smart Quant\Robots\Spread MA New\MyStrategy\bin\Debug\MyStrategy.pdb
+\\DTRADE\Public\Arbitrage\Smart Quant\Robots\Spread MA New\MyStrategy\obj\Debug\MyStrategy.csprojResolveAssemblyReference.cache
+\\DTRADE\Public\Arbitrage\Smart Quant\Robots\Spread MA New\MyStrategy\obj\Debug\MyStrategy.dll
+\\DTRADE\Public\Arbitrage\Smart Quant\Robots\Spread MA New\MyStrategy\obj\Debug\MyStrategy.pdb

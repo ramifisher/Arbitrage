@@ -1,0 +1,20 @@
+C:\Users\U-5058\Documents\OpenQuant 2014\Solutions\Spread\Backtest\bin\Debug\Backtest.exe
+C:\Users\U-5058\Documents\OpenQuant 2014\Solutions\Spread\Backtest\bin\Debug\Backtest.pdb
+C:\Users\U-5058\Documents\OpenQuant 2014\Solutions\Spread\Backtest\bin\Debug\MyStrategy.dll
+C:\Users\U-5058\Documents\OpenQuant 2014\Solutions\Spread\Backtest\bin\Debug\SpreadSellSide.dll
+C:\Users\U-5058\Documents\OpenQuant 2014\Solutions\Spread\Backtest\bin\Debug\MyStrategy.pdb
+C:\Users\U-5058\Documents\OpenQuant 2014\Solutions\Spread\Backtest\bin\Debug\SpreadSellSide.pdb
+C:\Users\U-5058\Documents\OpenQuant 2014\Solutions\Spread\Backtest\obj\Debug\Backtest.csprojResolveAssemblyReference.cache
+C:\Users\U-5058\Documents\OpenQuant 2014\Solutions\Spread\Backtest\obj\Debug\Backtest.exe
+C:\Users\U-5058\Documents\OpenQuant 2014\Solutions\Spread\Backtest\obj\Debug\Backtest.pdb
+C:\Users\U-5058\Documents\OpenQuant 2014\Solutions\Spread MA\Backtest\obj\Debug\Backtest.exe
+C:\Users\U-5058\Documents\OpenQuant 2014\Solutions\Spread MA\Backtest\obj\Debug\Backtest.pdb
+C:\Users\U-5058\Documents\OpenQuant 2014\Solutions\Spread MA\Backtest\bin\Debug\Backtest.exe
+C:\Users\U-5058\Documents\OpenQuant 2014\Solutions\Spread MA\Backtest\bin\Debug\Backtest.pdb
+C:\Users\U-5058\Documents\OpenQuant 2014\Solutions\Spread MA\Backtest\bin\Debug\MyStrategy.dll
+C:\Users\U-5058\Documents\OpenQuant 2014\Solutions\Spread MA\Backtest\bin\Debug\SpreadSellSide.dll
+C:\Users\U-5058\Documents\OpenQuant 2014\Solutions\Spread MA\Backtest\bin\Debug\MyStrategy.pdb
+C:\Users\U-5058\Documents\OpenQuant 2014\Solutions\Spread MA\Backtest\bin\Debug\SpreadSellSide.pdb
+C:\Users\U-5058\Documents\OpenQuant 2014\Solutions\Spread MA\Backtest\obj\Debug\Backtest.csprojResolveAssemblyReference.cache
+C:\Users\Alik\Documents\OpenQuant 2014\Solutions\Spread MA\Backtest\obj\Debug\Backtest.exe
+C:\Users\Alik\Documents\OpenQuant 2014\Solutions\Spread MA\Backtest\obj\Debug\Backtest.pdb
